@@ -4,14 +4,14 @@
 
 ### Hi there 👋
 
-### Repository
-# Practice<br><br>
+# Repository
+### Practice<br>
 https://github.com/SeongHyeon0409/practice<br><br>
-# Capstone project<br><br>
+### Capstone project<br>
 https://github.com/SeongHyeon0409/capstone-2023-20<br><br>
-# Django project<br><br>
+### Django project<br>
 https://github.com/SeongHyeon0409/Django-AD-Project<br><br>
-# study spring<br><br>
+### study spring<br>
 https://github.com/SeongHyeon0409/spring<br><br>
 
 
