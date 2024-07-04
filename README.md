@@ -27,7 +27,7 @@
   <br>
 </div>
 
-<div align=center><h1>Repository</h1></div>
+<div align=center><h1>REPOSITORY</h1></div>
 <div align=center> 
    <h3>Practice</h3>
   https://github.com/SeongHyeon0409/practice<br>
