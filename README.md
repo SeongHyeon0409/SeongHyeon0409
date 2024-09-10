@@ -42,11 +42,8 @@
 
 <div align=center><h1>ETC</h1></div>
 <div align=center>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongHyeon0409&theme=default&show_icons=true)
-  <br>
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=t139754)](https://solved.ac/profile/t139754)
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongHyeon0409&langs_count=8)](https://github.com/SeongHyeon0409/github-readme-stats)
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=t139754)](https://solved.ac/profile/t139754)
+
   
 </div>
