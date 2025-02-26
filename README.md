@@ -32,10 +32,6 @@
 <div align=center> 
    <h3>Practice</h3>
   https://github.com/SeongHyeon0409/practice<br>
-  <h3>Capstone project</h3>
-  https://github.com/SeongHyeon0409/capstone-2023-20<br>
-  <h3>Django project</h3>
-  https://github.com/SeongHyeon0409/Django-AD-Project<br>
   <h3>study spring</h3>
   https://github.com/SeongHyeon0409/spring<br>
 </div>
