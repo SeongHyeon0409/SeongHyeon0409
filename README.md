@@ -1,7 +1,3 @@
-
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SeongHyeon's%20GitHub&animation=fadeIn&fontSize=70)
-
 ### Hi there 👋
 
 
